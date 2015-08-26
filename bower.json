@@ -9,7 +9,7 @@
     "homepage"  :"https://github.com/okigan/tree-grid-directive",
     "repository":{
         "type":"git",
-        "url":"git://github.com/okigan/tree-grid-directive"
+        "url":"git://github.com/linkedrank/tree-grid-directive"
     },
     "ignore": [
         "temp",
